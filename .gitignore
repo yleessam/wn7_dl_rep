@@ -1,1 +1,7 @@
 test
+*:Zone.Identifier
+*.png
+*.zip
+.gitignore
+*.jpg
+
