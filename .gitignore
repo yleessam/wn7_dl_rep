@@ -6,3 +6,6 @@ test
 *.jpg
 
 .env
+*.pt
+*.yaml
+*.txt
