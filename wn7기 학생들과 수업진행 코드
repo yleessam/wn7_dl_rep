@@ -1,0 +1,5 @@
+dnn - tfgpu
+cnn - tfgpu
+yolo - torchgpu
+rnn - tfgpu
+transformer - torchgpu
