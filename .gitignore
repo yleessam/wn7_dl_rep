@@ -9,3 +9,6 @@ test
 *.pt
 *.yaml
 *.txt
+datasets/train/labels.cache
+datasets/valid/labels.cache
+runs/detect/train/results.csv
